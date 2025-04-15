@@ -1,0 +1,16 @@
+-rootPath
+/home/mrbombastic/Software/Qt_Projects/quantumHUD
+-cmake-output
+-output-file
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/.qt/qml_imports/apptacho_1_conf.cmake
+-importPath
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/tacho_1
+-importPath
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug
+-importPath
+/home/mrbombastic/Qt/6.10.0/android_arm64_v8a/qml
+-qrcFiles
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/.qt/rcc/qmake_tacho_1.qrc
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/.qt/rcc/apptacho_1_raw_qml_0.qrc
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/.qt/rcc/apptacho_1_raw_qml_0_extra_qmldirs.qrc
+/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/.qt/rcc/resources.qrc

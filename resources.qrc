@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>image/tacho_parts/tacho_frame.svg</file>
+        <file>image/tacho_parts/tacho_hand.svg</file>
+        <file>image/tacho_parts/tacho_hand_point.svg</file>
+        <file>image/tacho_parts/tacho_rpm_bck.svg</file>
+        <file>image/tacho_parts/tacho_rpm_hand.svg</file>
+        <file>image/tacho_parts/tacho_space.svg</file>
+        <file>image/tacho_parts/tacho_tacho_bck.svg</file>
+        <file>image/tacho_parts/tacho_base.svg</file>
+    </qresource>
+</RCC>

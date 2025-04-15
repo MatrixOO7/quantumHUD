@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/tacho_1">/home/mrbombastic/Software/Qt_Projects/tacho_1/build/Desktop_Qt_6_10_0-Debug/tacho_1</file>
+
+  </qresource>
+</RCC>

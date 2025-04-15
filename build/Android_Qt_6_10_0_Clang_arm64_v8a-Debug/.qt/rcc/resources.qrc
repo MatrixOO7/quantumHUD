@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="resources/image/tacho_parts/tacho_frame.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_frame.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_hand.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_hand.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_hand_point.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_hand_point.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_rpm_bck.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_rpm_bck.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_rpm_hand.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_rpm_hand.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_space.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_space.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_tacho_bck.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_tacho_bck.svg</file>
+    <file alias="resources/image/tacho_parts/tacho_base.svg">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/image/tacho_parts/tacho_base.svg</file>
+    <file alias="resources/shadereffect/frag/hand.vert.qsb">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/shadereffect/frag/hand.vert.qsb</file>
+    <file alias="resources/shadereffect/frag/hand.frag.qsb">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/shadereffect/frag/hand.frag.qsb</file>
+    <file alias="resources/shadereffect/frag/tacho_2.vert.qsb">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/shadereffect/frag/tacho_2.vert.qsb</file>
+    <file alias="resources/shadereffect/frag/tacho_2.frag.qsb">/home/mrbombastic/Software/Qt_Projects/quantumHUD/resources/shadereffect/frag/tacho_2.frag.qsb</file>
+  </qresource>
+</RCC>
+

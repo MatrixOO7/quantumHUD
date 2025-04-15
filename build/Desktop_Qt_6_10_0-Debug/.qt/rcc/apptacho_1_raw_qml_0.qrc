@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/qt/qml/tacho_1/">
+    <file alias="view/Main.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/Main.qml</file>
+    <file alias="view/tacho/Tacho.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/tacho/Tacho.qml</file>
+    <file alias="view/hndl/ColorItem.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/hndl/ColorItem.qml</file>
+    <file alias="view/hndl/ColorBox.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/hndl/ColorBox.qml</file>
+    <file alias="view/theme/ThemeManager.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/ThemeManager.qml</file>
+    <file alias="view/theme/ItemTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/ItemTheme.qml</file>
+    <file alias="view/theme/DarkTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/DarkTheme.qml</file>
+    <file alias="view/theme/LightTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/LightTheme.qml</file>
+    <file alias="view/theme/GoldTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/GoldTheme.qml</file>
+    <file alias="view/theme/RedTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/RedTheme.qml</file>
+    <file alias="view/theme/GreenTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/GreenTheme.qml</file>
+    <file alias="view/theme/PurpleTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/PurpleTheme.qml</file>
+    <file alias="view/theme/BlueTheme.qml">/home/mrbombastic/Software/Qt_Projects/tacho_1/view/theme/BlueTheme.qml</file>
+  </qresource>
+</RCC>
+

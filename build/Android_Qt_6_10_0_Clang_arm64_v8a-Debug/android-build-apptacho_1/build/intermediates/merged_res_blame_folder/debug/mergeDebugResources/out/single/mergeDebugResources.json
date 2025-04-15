@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "org.qtproject.example.apptacho_1-debug-11:/xml_qtprovider_paths.xml.flat",
+        "source": "org.qtproject.example.apptacho_1-android-build-apptacho_1-12:/xml/qtprovider_paths.xml"
+    }
+]

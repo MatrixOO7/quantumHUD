@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/qt/qml/tacho_1">
+    <file alias="qmldir">/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/tacho_1/qmldir</file>
+  </qresource>
+</RCC>
+

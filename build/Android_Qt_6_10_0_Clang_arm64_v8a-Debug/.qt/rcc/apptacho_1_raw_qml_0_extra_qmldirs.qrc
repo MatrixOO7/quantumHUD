@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/qt/qml/tacho_1/">
+    <file alias="view/qmldir">/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/tacho_1/view/qmldir</file>
+    <file alias="view/tacho/qmldir">/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/tacho_1/view/tacho/qmldir</file>
+    <file alias="view/hndl/qmldir">/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/tacho_1/view/hndl/qmldir</file>
+    <file alias="view/theme/qmldir">/home/mrbombastic/Software/Qt_Projects/quantumHUD/build/Android_Qt_6_10_0_Clang_arm64_v8a-Debug/tacho_1/view/theme/qmldir</file>
+  </qresource>
+</RCC>
+
