@@ -1,0 +1,73 @@
+{
+    "QEP": {
+        "QQEM": "0.44",
+        "connections": [
+            {
+                "fromId": 0,
+                "toId": 2
+            },
+            {
+                "fromId": 2,
+                "toId": 1
+            }
+        ],
+        "exportFlags": 11,
+        "nodes": [
+            {
+                "fragmentCode": [
+                    "void main() {",
+                    "    fragColor = texture(iSource, texCoord);",
+                    "    @nodes",
+                    "    fragColor = fragColor * qt_Opacity;",
+                    "}"
+                ],
+                "name": "Main",
+                "nodeId": 0,
+                "type": 0,
+                "vertexCode": [
+                    "void main() {",
+                    "    texCoord = qt_MultiTexCoord0;",
+                    "    fragCoord = qt_Vertex.xy;",
+                    "    vec2 vertCoord = qt_Vertex.xy;",
+                    "    @nodes",
+                    "    gl_Position = qt_Matrix * vec4(vertCoord, 0.0, 1.0);",
+                    "}"
+                ],
+                "x": 241.39999389648438,
+                "y": 45.900001525878906
+            },
+            {
+                "name": "Output",
+                "nodeId": 1,
+                "type": 1,
+                "x": 241.39999389648438,
+                "y": 792.0999755859375
+            },
+            {
+                "description": "This is an empty node for creating custom effects.",
+                "fragmentCode": [
+                    "@main",
+                    "{",
+                    "   if ( fragColor.a > 0.0 ) {",
+                    "       fragColor = mix( vec4(0.0, 0.0, 0.0, 0.0), colorSpeed, fragColor.a);",
+                    "   } ",
+                    "}"
+                ],
+                "name": "Custom",
+                "nodeId": 2,
+                "properties": [
+                    {
+                        "defaultValue": "0.898, 0.647, 0.039, 1",
+                        "name": "colorSpeed",
+                        "type": "color",
+                        "value": "0.888, 0.226, 0.746, 1"
+                    }
+                ],
+                "type": 2,
+                "x": 206.39999389648438,
+                "y": 434
+            }
+        ],
+        "version": 1
+    }
+}

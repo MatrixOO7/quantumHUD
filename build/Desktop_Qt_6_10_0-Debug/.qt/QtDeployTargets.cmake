@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_apptacho_1_FILE /home/mrbombastic/Software/Qt_Projects/tacho_1/build/Desktop_Qt_6_10_0-Debug/apptacho_1)
-set(__QT_DEPLOY_TARGET_apptacho_1_TYPE EXECUTABLE)

@@ -1,5 +1,6 @@
 import QtQuick
 import QtQuick.Controls
+import QtQuick.Window
 
 import "hndl"
 import "theme"
@@ -94,7 +95,6 @@ Window {
                     easing.type: Easing.InOutQuad
                 }
             }
-
         }
 
         Button {
@@ -122,8 +122,31 @@ Window {
            }
         }
 
+        Canvas {
+            id: myCanvas2
+            anchors.centerIn: parent
+            width: 500
+            height: 500
+            x: 0
+            y: 0
+            //visible: true
 
-        Rectangle {
+            onPaint: {
+                var ctx = getContext("2d")
+                ctx.clearRect(0, 0, width, height)
+                ctx.fillStyle = "green"
+                ctx.fillRect(0, 0, width, height)
+                ctx.fillStyle = "red"
+
+            }
+
+            Component.onCompleted: {
+                requestPaint()
+            }
+        }
+
+
+       /* Rectangle {
             width: 500
             height: 200
             y: 120
@@ -366,6 +389,6 @@ Window {
                 }
             }
 
-        }
+        }*/
     }
 }
